@@ -3,3 +3,5 @@ Fichier de test
 Texte original
 
 Ajout d'un paragraphe ds modifContenu
+Modif2 modifContenu
+Modif3 (au moment de la création de test2.txt)
